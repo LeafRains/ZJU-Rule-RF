@@ -56,3 +56,7 @@ DOMAIN-SUFFIX,DSmyNAS.org
 DOMAIN-SUFFIX,FamilyDS.com
 DOMAIN-SUFFIX,FamilyDS.net
 DOMAIN-SUFFIX,FamilyDS.org
+
+# AI Open
+DOMAIN-SUFFIX,openxlab.org.cn
+DOMAIN-SUFFIX,mineru.net
