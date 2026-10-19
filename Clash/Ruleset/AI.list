@@ -1,5 +1,5 @@
 # 内容：内容：AI平台-国外
-# 数量：36条
+# 数量：38条
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,openai
@@ -31,8 +31,6 @@ DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,jetbrains.ai
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,mistral.ai
-DOMAIN-SUFFIX,notebooklm.google
-DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openai.com
